@@ -14,7 +14,7 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (
     />
 
     <section>
-      <h1>HELLO WORLD</h1>
+      <h1>HELLO DASH</h1>
       <h2>Pages in Storybook</h2>
       <p>
         We recommend building UIs with a{' '}
